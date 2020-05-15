@@ -1,0 +1,20 @@
+
+.uni-media-list-logo{
+	width: 120rpx;
+	height: 120rpx;
+	border-radius: 15rpx;
+}
+.uni-media-list-body{
+	height: 120rpx;
+}
+.uni-media-list-text-top{
+	font-size: 1.2em;
+	line-height: 1.2em;
+	margin:5rpx 0 15rpx 0;
+}
+.uni-media-list-text-bottom{
+	font-size: .8em;
+	line-height: 1.2em;
+	margin-bottom: 5rpx;
+}
+
